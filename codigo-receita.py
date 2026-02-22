@@ -1,1 +1,1 @@
-os.walk('receitas-bolo-cenoura.txt', 'r')
+arquivo = open('receitas-bolo-cenoura.txt', 'r')
