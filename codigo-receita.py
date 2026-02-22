@@ -1,0 +1,1 @@
+open('receitas-bolo-cenoura.txt', 'r')
